@@ -1,0 +1,13 @@
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Edit.resources
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Info.resources
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.MainMenu.resources
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Properties.Resources.resources
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.exe
+c:\users\djdominosvk\documents\visual studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.pdb
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\GenerateResource.write.3773.tlog
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\GenerateResource.write.702.tlog

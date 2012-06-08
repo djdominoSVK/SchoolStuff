@@ -1,0 +1,11 @@
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\bin\Release\AddressBook.exe
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\bin\Release\AddressBook.pdb
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\AddressBook.Edit.resources
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\AddressBook.Info.resources
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\AddressBook.MainMenu.resources
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\AddressBook.Properties.Resources.resources
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\GenerateResource.read.1.tlog
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\GenerateResource.write.1.tlog
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\AddressBook.exe
+c:\Users\djdominoSVK\Documents\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Release\AddressBook.pdb
