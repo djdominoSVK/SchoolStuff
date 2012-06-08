@@ -1,0 +1,43 @@
+// MMF.cpp : Defines the entry point for the console application.
+//
+// If the file on disk currently contains 0 bytes, you can't pass two zeros to CreateFileMapping's
+// dwMaximumSizeHigh and dwMaximumSizeLow parameters.
+
+#include "stdafx.h"
+
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	HANDLE hFile = NULL;
+	HANDLE hFileMap = NULL;
+	// Before executing the line below, C:\ does not have 
+   // a file called "MMFTest.Dat."
+   hFile = CreateFile(
+	   L"MMFTest.txt", 
+      GENERIC_READ | GENERIC_WRITE,
+      FILE_SHARE_READ | FILE_SHARE_WRITE, NULL, CREATE_ALWAYS,
+      FILE_ATTRIBUTE_NORMAL, NULL);
+
+   if (hFile == INVALID_HANDLE_VALUE)
+	   wprintf_s(L"Function CreateFile failed.\n");
+   
+   // Before executing the line below, the MMFTest.Dat 
+   // file does exist but has a file size of 0 bytes.
+    hFileMap = CreateFileMapping(hFile, NULL, PAGE_READWRITE,
+      0, 0, NULL);
+
+   if (hFileMap == NULL)
+	   wprintf_s(L"Function CreateFileMapping failed.\n");
+   // After executing the line above, the MMFTest.Dat 
+   // file has a size of 100 bytes.
+
+   // Cleanup
+   CloseHandle(hFileMap);
+   CloseHandle(hFile);
+
+   // When the process terminates, MMFTest.Dat remains 
+   // on the disk with a size of 100 bytes.
+   return(0);
+
+}
+
