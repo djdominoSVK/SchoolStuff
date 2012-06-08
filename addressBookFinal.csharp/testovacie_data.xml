@@ -1,0 +1,725 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <recordData>
+    <id>2</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Janko</first_name>
+    <mid_name />
+    <last_name>Krajik</last_name>
+    <nickname />
+    <sex>Female</sex>
+    <birthdate>10. 5. 2011</birthdate>
+    <note />
+    <photo>testovacie_data\\photo2.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>5</id>
+    <relation>Friends</relation>
+    <title>Kralovna</title>
+    <first_name>Maria</first_name>
+    <mid_name />
+    <last_name>Alzbeta</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <birthdate>10. 5. 2011</birthdate>
+    <note />
+    <photo>testovacie_data\\photo5.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>7</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Zaujimave</first_name>
+    <mid_name />
+    <last_name>Meno</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <birthdate>10. 5. 2011</birthdate>
+    <note />
+    <photo>no_photo.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>8</id>
+    <relation>Work</relation>
+    <title />
+    <first_name>Skupina</first_name>
+    <mid_name />
+    <last_name>Work</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <birthdate>10. 5. 2011</birthdate>
+    <note />
+    <photo>testovacie_data\\photo8.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>10</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Vlozeny</first_name>
+    <mid_name />
+    <last_name>Zajac</last_name>
+    <nickname>dasdasd</nickname>
+    <sex>Male</sex>
+    <birthdate>10. 5. 2011</birthdate>
+    <note />
+    <photo>no_photo.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>14</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Pekny</first_name>
+    <mid_name />
+    <last_name>Obrazok</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <birthdate>10. 5. 2011</birthdate>
+    <note />
+    <photo>no_photo.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>17</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Skuska</first_name>
+    <mid_name />
+    <last_name>Ulozenia</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <birthdate>13. 5. 2011</birthdate>
+    <note />
+    <photo>no_photo.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email>a@a</email>
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail>a@a</wemail>
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>27</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Srabnsa</first_name>
+    <mid_name />
+    <last_name>Neruslina</last_name>
+    <nickname />
+    <sex>Female</sex>
+    <birthdate>14. 5. 2011</birthdate>
+    <note />
+    <photo>testovacie_data\photo27.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity>a</scity>
+    <sddress>a</sddress>
+    <szip />
+    <sstate>a</sstate>
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>31</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Dominik</first_name>
+    <mid_name />
+    <last_name>Vtipny</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>no_photo.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>32</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Novy</first_name>
+    <mid_name />
+    <last_name>Contact</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>testovacie_data\photo32.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>33</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Usnesny</first_name>
+    <mid_name />
+    <last_name>Podliak</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>testovacie_data\photo33.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>34</id>
+    <relation>Family</relation>
+    <title />
+    <first_name>Panda</first_name>
+    <mid_name />
+    <last_name>Stromova</last_name>
+    <nickname />
+    <sex>Female</sex>
+    <note />
+    <photo>testovacie_data\photo34.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>35</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Hovadina</first_name>
+    <mid_name />
+    <last_name>Lukas</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>no_photo.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>36</id>
+    <relation>Family</relation>
+    <title />
+    <first_name>Hnede</first_name>
+    <mid_name />
+    <last_name>Resty</last_name>
+    <nickname />
+    <sex>Female</sex>
+    <note />
+    <photo>testovacie_data\photo36.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>37</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Zlte</first_name>
+    <mid_name />
+    <last_name>Tulene</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>testovacie_data\photo37.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>38</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Tucniak</first_name>
+    <mid_name />
+    <last_name>Velky</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>testovacie_data\photo38.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+  <recordData>
+    <id>39</id>
+    <relation>Friends</relation>
+    <title />
+    <first_name>Cerveny</first_name>
+    <mid_name />
+    <last_name>Kvet</last_name>
+    <nickname />
+    <sex>Male</sex>
+    <note />
+    <photo>testovacie_data\photo39.jpg</photo>
+    <pcity />
+    <paddress />
+    <pzip />
+    <pstate />
+    <scity />
+    <sddress />
+    <szip />
+    <sstate />
+    <num1>(none)</num1>
+    <num2>(none)</num2>
+    <num3>(none)</num3>
+    <num4>(none)</num4>
+    <num5>(none)</num5>
+    <num6>(none)</num6>
+    <nnum1 />
+    <nnum2 />
+    <nnum3 />
+    <nnum4 />
+    <nnum5 />
+    <nnum6 />
+    <email />
+    <web />
+    <wposition />
+    <wcompany />
+    <waddress />
+    <wcity />
+    <wzip />
+    <wtelephone />
+    <wemail />
+    <wweb />
+  </recordData>
+</DataSet1>
